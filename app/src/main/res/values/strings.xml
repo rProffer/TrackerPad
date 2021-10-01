@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TrackerPad</string>
+    <string name="Button_Open">\"Open new Task\"</string>
+    <string name="newTask">\"add a new task"\</string>
+    <string name="Button_Enter">\"enter task data"\</string>
+    <string name="Taskdata">\"Enter task\"</string>
+    <string name="tdeadline">\"Enter task deadline\"</string>
+</resources>
